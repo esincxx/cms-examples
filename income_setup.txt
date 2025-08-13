@@ -1,0 +1,43 @@
+Stream: blog
+Platform: medium
+Topic: tech tips
+Channel: #income-updates
+
+Stream: digital_product
+Platform: gumroad
+Product: AI Guide
+Price: 29
+Channel: #sales-alerts
+
+Stream: course
+Platform: udemy
+Course: Mastering AI Automation
+Price: 99
+Channel: #course-launch
+
+Stream: newsletter
+Platform: substack
+Topic: Weekly AI Insights
+Channel: #newsletter-updates
+
+Stream: blog
+Platform: dev.to
+Topic: JavaScript Tricks
+Channel: #dev-updates
+
+Stream: digital_product
+Platform: shopify
+Product: Productivity Planner
+Price: 19
+Channel: #shopify-sales
+
+Stream: course
+Platform: skillshare
+Course: No-Code Income Streams
+Price: 49
+Channel: #skillshare-alerts
+
+Stream: newsletter
+Platform: mailchimp
+Topic: Monthly Growth Hacks
+Channel: #mailchimp-news
